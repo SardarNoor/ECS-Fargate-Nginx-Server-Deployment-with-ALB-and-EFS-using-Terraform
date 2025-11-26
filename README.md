@@ -6,7 +6,10 @@ All infrastructure is provisioned using **Terraform**, following a modular struc
 
 ---
 
-## **Architecture Overview**
+*
+## Architecture Diagram
+
+![Architecture Diagram](./ECS%20Fargate(ALB+EFS)%20(1).png)
 
 The deployment consists of:
 
